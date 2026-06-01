@@ -65,22 +65,6 @@ This repository documents:
 - Applying Zero Trust principles to OT and AI systems
 - Designing bounded autonomy for industrial agents
 
----
-
-## Repository Structure
-├── articles/
-│   ├── article-01.md
-│   ├── article-02.md
-│   └── ...
-│
-├── diagrams/
-│   └── architecture-overviews
-│
-├── research/
-│   └── references-and-notes
-│
-└── README.md
-
 ## Audience
 
 This repository is intended for:
