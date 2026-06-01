@@ -68,3 +68,91 @@ This repository documents:
 ---
 
 ## Repository Structure
+├── articles/
+│   ├── article-01.md
+│   ├── article-02.md
+│   └── ...
+│
+├── diagrams/
+│   └── architecture-overviews
+│
+├── research/
+│   └── references-and-notes
+│
+└── README.md
+
+## Audience
+
+This repository is intended for:
+
+- Security engineers and architects
+- OT / ICS cybersecurity professionals
+- AI engineers working in critical infrastructure
+- CISOs and security leaders
+- Researchers exploring AI safety in cyber-physical systems
+
+---
+
+## Core Principles
+
+The work in this repository is guided by the following principles:
+
+### 1. Safety First
+In ICS, cybersecurity incidents are not just data breaches—they can impact **physical processes, human safety, and critical infrastructure availability**.
+
+### 2. Identity is the New Perimeter
+Every system—human or machine—must prove:
+- Who it is
+- What it is allowed to do
+- Under which conditions
+
+### 3. Data Integrity is Critical
+In ICS:
+> Bad data does not just mislead systems—it misrepresents reality.
+
+### 4. Autonomy Must Be Bounded
+AI systems in industrial environments should operate within:
+- Clearly defined constraints
+- Verified execution paths
+- Human oversight when required
+
+### 5. Zero Trust is Non-Negotiable
+- No implicit trust, even inside OT networks
+- Segmentation and verification at every layer
+- Continuous monitoring of system behavior
+
+---
+
+## Contributing
+
+Contributions are welcome.
+
+You can contribute by:
+- Suggesting new topics or articles
+- Sharing research papers or references
+- Proposing improvements to existing content
+- Opening issues for discussion
+
+---
+
+## Disclaimer
+
+The content in this repository reflects research, personal perspectives, and industry observations.  
+It is intended for **educational and informational purposes only**.
+
+---
+
+## About the Author
+
+**Liliane Scarpari**  
+Senior Solution Engineer | Cybersecurity & AI  
+Specializing in:
+- Industrial Control Systems (ICS) security
+- AI and agentic security models
+- Data governance and cyber-physical protection
+
+---
+
+## Final Thought
+
+> "Autonomy without safety is not innovation—it is risk."
