@@ -1,0 +1,2 @@
+openai>=1.40       # Azure OpenAI or OpenAI
+anthropic>=0.40    # optional — only if you use ANTHROPIC_API_KEY
