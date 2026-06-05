@@ -1,8 +1,0 @@
-# Dependencies for realistic_agent_demo.py (the LIVE agentic demo).
-#
-# You only need these to run against a REAL model. The scripted visual demo
-# (index.html) needs nothing, and `python realistic_agent_demo.py --mock`
-# runs fully offline with no installs.
-
-openai>=1.40       # Azure OpenAI or OpenAI (whichever key you set)
-anthropic>=0.40    # optional — only if you use ANTHROPIC_API_KEY
