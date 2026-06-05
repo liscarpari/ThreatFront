@@ -1,0 +1,4 @@
+# Dependencies for realistic_agent_demo.py (the LIVE agentic demo).
+# Only needed for a real run. index.html and `--mock` need nothing.
+openai>=1.40       # Azure OpenAI or OpenAI
+anthropic>=0.40    # optional — only if you use ANTHROPIC_API_KEY
